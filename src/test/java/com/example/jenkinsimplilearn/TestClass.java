@@ -34,6 +34,7 @@ public class TestClass {
 		System.out.println("test run SucessFully!!!");
 	}
 	
+	@Test
 	public void test3() {
 		System.out.println("New TEst Run added");
 		driver.close();
