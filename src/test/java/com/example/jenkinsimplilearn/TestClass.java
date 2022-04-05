@@ -33,6 +33,11 @@ public class TestClass {
 	public void test2() {
 		System.out.println("test run SucessFully!!!");
 	}
+	
+	public void test3() {
+		System.out.println("New TEst Run added");
+		driver.close();
+	}
 }
 
 	
